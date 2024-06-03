@@ -5,7 +5,6 @@
 #include "encodings.h"
 #include "constants.h"
 
-using std::terminate_handler;
 
 #define NAPI_VERSION 4
 #include <napi.h>
